@@ -130,6 +130,7 @@ class LaserScanSubscriber(Node):
         # For debugging
         # self.get_logger().info('Publishing vector "%s"' % array_msg.data)
 
+    # Change this function if you want to change the link between distances and Neural Field Input (tanh, exp, ...)
     def process_input(self, distances):
 
         threshold = 0.85
