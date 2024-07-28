@@ -7,3 +7,4 @@ The structure of the project is the following one :
 
 ![](figures/structure.png)
 
+The **NFDE** node is the efficient C++ node implementing the Neural Field Equations in a very generic way, while the other node are specific to the TurtleBot implementation. 
