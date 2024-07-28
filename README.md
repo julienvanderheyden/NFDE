@@ -5,5 +5,5 @@ Practical ROS2 implementation of the project "Obstacle Avoidance using Neural Fi
 
 The structure of the project is the following one : 
 
-![](figures/struct.png)
+![](figures/structure.png)
 
